@@ -1,2 +1,2 @@
 # CV
-This is my Curriculum Vitae(CV).
+Here is my Curriculum Vitae(CV) and updated Resume.
